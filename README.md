@@ -1,4 +1,5 @@
 # lab1Sem  
+##progress 7 / 7  
 
 0lab - converting numbers from one number system to another  
 
